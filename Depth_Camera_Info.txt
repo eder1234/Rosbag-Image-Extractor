@@ -1,0 +1,17 @@
+Image width: 1280
+Image height: 720
+Camera model: Brown Conrady
+Camera matrix (K):
+937.661193848 0.0 612.535644531
+0.0 937.661193848 364.03213501
+0.0 0.0 1.0
+Distortion coefficients (D):
+0.0 0.0 0.0 0.0 0.0
+Rectification matrix (R):
+0.0 0.0 0.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+Projection matrix (P):
+0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0
