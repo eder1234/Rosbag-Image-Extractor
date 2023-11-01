@@ -32,4 +32,4 @@ Ensure that the script has executable permissions. If not, use the following com
 ```
 chmod +x extract_images_from_rosbag.py
 ```
-
+All the data was collected from an Intel RealSense D415.
