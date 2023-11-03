@@ -1,0 +1,71 @@
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+Average distance:  5800.684614767467
+Frame not selected
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+Average distance:  7498.191048512965
+Frame not selected
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+Average distance:  6988.5487048456625
+Frame not selected
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+Average distance:  7214.215411255749
+Frame not selected
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+Average distance:  7944.907110847807
+Frame not selected
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+Average distance:  8205.420159869942
+Frame not selected
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+Average distance:  8855.88956570711
+Frame not selected
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+Average distance:  9670.512085717075
+Frame not selected
+Generating point cloud
+Generating point cloud
+Compute FPFH + Color
+Computing FPFH+Color
+Computing FPFH+Color
+cKDTree
+th=60000
